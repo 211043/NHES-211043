@@ -1,3 +1,5 @@
+專案摘要
+
 《數據收割機》（Data Harvester），一個以 HTML + CSS + JavaScript 單檔形式實現的互動紀錄片 / 沉浸式模擬。它讓使用者在短短幾分鐘內，「親身」體驗全球數億「幽靈勞工」（ghost workers）在 AI 供應鏈中的處境。
 
 專案核心概念與目的
